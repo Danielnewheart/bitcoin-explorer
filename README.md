@@ -1,4 +1,6 @@
-# Full-Stack Framework with Vite, React, TypeScript, and Express
+![Lightning Nodes Per Country](https://github.com/Danielnewheart/bitcoin-explorer/assets/87961226/d33e8d9c-5e3d-4202-8106-9ded35bb41e0)
+# Lightning Nodes Per Country
+> Full-Stack Framework with Vite, React, TypeScript, and Express
 
 This project demonstrates a full-stack application using Vite, React, TypeScript, and Express. It showcases how to build a modern web application that fetches real-time data from the Mempool API and visualizes it using a Doughnut Chart with `react-chartjs-2`.
 
